@@ -42,7 +42,7 @@ return (
        emoji='🐶'
        sectionClass='doglightpart'
        sectionBackClass='doglightpartBack'
-       text="Adopt, don't shop!"
+       text="Hello, do you want to be friends?"
        buttonClass="dogbutton"
        buttonText='ADOPT ME'
     
